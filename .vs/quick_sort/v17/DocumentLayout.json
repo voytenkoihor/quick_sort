@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\quick_sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584ADB69-D9D6-4BB9-BF01-E697A20EB330}|quick_sort\\quick_sort.vcxproj|C:\\Users\\user\\source\\repos\\quick_sort\\quick_sort\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{584ADB69-D9D6-4BB9-BF01-E697A20EB330}|quick_sort\\quick_sort.vcxproj|solutionrelative:quick_sort\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quick_sort.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\quick_sort\\quick_sort\\quick_sort.cpp",
+              "RelativeDocumentMoniker": "quick_sort\\quick_sort.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\quick_sort\\quick_sort\\quick_sort.cpp",
+              "RelativeToolTip": "quick_sort\\quick_sort.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T05:07:34.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
